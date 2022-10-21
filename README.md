@@ -7,3 +7,8 @@ My Favourite icecream flabours
 - Mint
 - Choco
 - vanilla
+
+## Rana's Favourite ice-cream flavours
+- tutii
+- butter-scotch
+- choco fudge
